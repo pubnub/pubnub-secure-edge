@@ -36,7 +36,7 @@ this.secureEdge = new PubNubSecureEdge({
 });
 ```
 
-# Traditional REST vs PubNbu Secure Edge
+# Traditional REST vs PubNub Secure Edge
 
 ## Traditional REST API
 
